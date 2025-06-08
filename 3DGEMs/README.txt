@@ -43,7 +43,10 @@ e suas dependências, serão diferentes em cada caso
 (ex de comando para encontrar a dependencia no cluster caso vc n saiba onde está:
 find /sampa/daniel-magpali/miniconda3/envs/myenv/ -name "GarfieldConfig.cmake")
 
-3 - NÃO MUDE O NOME DE NADA 
+3 - Para que funcione toda essa lista de arquivos desse estar presente no diretório
+em que vc vai executar os comandos na sua conta do cluster 
+
+4 - NÃO MUDE O NOME DE NADA 
 ---------------------------- COMO SUBMETER ----------------------------------
 
 1 - Primeiramente rodar o script cria_multiplas_simus.py e passar a ele um argumento
