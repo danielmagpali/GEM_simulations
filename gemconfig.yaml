@@ -1,0 +1,20 @@
+diameter: 0.007
+etch: 0
+dieletric_thickness: 0.005
+conductor_thickness: 0.0005
+pitch: 0.014
+upper_plate: 0.3
+lower_plate: 0.1
+hole_type: negbicone_rough
+top_decoration: ring
+decoration_size: 0.0015
+#bottom_diameter: 0.003
+#bottom_decoration: ring
+#bottom_decoration_size: 0.0015
+Edrift: 400
+deltaV: 300
+Eind: 3500
+nEvents: 5
+#Parâmetro a ser variado
+parametro_variado: diameter
+valores_variados: [0.005, 0.0055, 0.006, 0.0065, 0.007, 0.0075, 0.008, 0.0085, 0.009, 0.0095]
